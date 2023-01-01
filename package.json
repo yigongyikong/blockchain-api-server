@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yigongyikong/blockchain-api-server/issues"
   },
-  "homepage": "https://github.com/yigongyikong/blockchain-api-server#readme"
+  "homepage": "https://github.com/yigongyikong/blockchain-api-server#readme",
+  "dependencies": {
+    "web3": "^1.8.1"
+  }
 }

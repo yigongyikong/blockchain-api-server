@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/yigongyikong/blockchain-api-server/issues"
   },
-  "homepage": "https://github.com/yigongyikong/blockchain-api-server#readme"
+  "homepage": "https://github.com/yigongyikong/blockchain-api-server#readme",
+  "dependencies": {
+    "bip32": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.0",
+    "ecpair": "^2.1.0"
+  }
 }
